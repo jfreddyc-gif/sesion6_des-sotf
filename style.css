@@ -1,0 +1,11 @@
+h1{
+    font: larger;
+    color: blue;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    left: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
