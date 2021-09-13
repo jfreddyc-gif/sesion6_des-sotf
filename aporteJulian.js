@@ -1,3 +1,6 @@
-<script>
-document.write("hola grupo");
-</script>
+
+console.log("nuvo mensaje");
+console.log("Para el grupo");
+
+
+
